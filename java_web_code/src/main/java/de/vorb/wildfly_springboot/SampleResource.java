@@ -8,7 +8,7 @@ public class SampleResource {
 
     @RequestMapping("/")
     public String hello() {
-        return "Hello World!";
+        return "Testing CI CD by sasidharreddy gaddam";
     }
 
 }
